@@ -33,11 +33,12 @@ A meditation app for every age, about finding your inner youth: the lighter, cur
 - Background sounds: rain, ocean, forest, singing bowl, lo-fi hum, or silence
 - A breathing orb and captions that follow along
 - A mood check-in and optional reflection after every session
-- Streaks, favorites, and replays of any past session
+- Streaks, favorites, and replays of any past session, with a different background sound if you like
 - Stop partway and pick up where you left off
-- Background playback with Lock Screen controls and a Live Activity
+- Background playback with Lock Screen controls and a Live Activity, and the background sound goes quiet when you pause and step away
 - A gentle daily reminder
 - iPad layout with a sidebar and a side-by-side words pane
+- Two columns either side of the fold on iPhone Duo
 - VoiceOver, Dynamic Type, Reduce Motion and Reduce Transparency support
 
 ## Requirements

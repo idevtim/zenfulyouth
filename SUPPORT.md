@@ -36,6 +36,18 @@ Your ElevenLabs plan has a monthly limit. When it runs out, the app says so, and
 
 Yes. Sessions keep playing in the background, with controls on the Lock Screen and a Live Activity showing how long is left.
 
+### Why did the background sound stop when I paused?
+
+When a session is paused and you minimise the player or leave the app, the background sound goes quiet too, so nothing keeps playing while you're away. It comes back when you open the player again or press play.
+
+### Can I change the background sound on a replay?
+
+Yes. While a session replays, tap the label at the top of the player (it shows the sound's name) and pick another. The session remembers it for next time.
+
+### Does it work on iPhone Duo?
+
+Yes. Opened up, Zenful Youth uses both sides of the fold: the welcome, Meditate, Sessions and Settings each show two columns.
+
 ### Can I stop and finish later?
 
 Yes. Tap the bookmark while a session is playing, or choose to save it when you end early. It waits in **Sessions** and picks up where you left off.
